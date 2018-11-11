@@ -1,0 +1,16 @@
+/** Defining fonts **/
+@font-face {
+  font-family: 'Bookmania Regular';
+  src: url('https://dracoexe.github.io/GMBinder-ESPFonts/Bookinsanity%20font/Bookmania%20Regular.otf')
+}
+
+@font-face {
+  font-family: 'Bookmania Bold';
+  src: url('https://dracoexe.github.io/GMBinder-ESPFonts/Bookinsanity%20font/Bookmania%20Bold.otf')
+}
+
+.phb p, .phb li, .phb ol{
+	font-family: 'Bookmania Regular';
+    font-size: 1em;
+  text-align: left;    
+}
