@@ -1,0 +1,23 @@
+/** Defining fonts **/
+@font-face {
+  font-family: 'Bookmania Regular';
+  src: url('https://dracoexe.github.io/GMBinder-ESPFonts/Bookinsanity%20font/Bookmania%20Regular.otf')
+}
+
+@font-face {
+  font-family: 'Bookmania Bold';
+  src: url('https://dracoexe.github.io/GMBinder-ESPFonts/Bookinsanity%20font/Bookmania%20Bold.otf')
+}
+
+@font-face {
+  font-family: 'Bookmania Black';
+  src: url('https://dracoexe.github.io/GMBinder-ESPFonts/Bookinsanity%20font/Bookmania%20Black.otf')
+}
+
+.phb p, .phb li, .phb ol{
+  font-family: 'Bookmania Regular';
+}
+
+.phb strong em, .phb em strong{
+  font-family: 'Bookmania Black';
+}
