@@ -10,13 +10,13 @@
 }
 
 .phb p, .phb li, .phb ol{
-	font-family: 'Bookmania Regular';
-    font-size: 1em;
+  font-family: 'Bookmania Regular';
+  font-size: 1em;
   text-align: left;    
 }
 
 .phb strong em, .phb em strong{
-  color: rgb(155,7,25);
-  font-style : normal;
-  font-weight: bold;
+  font-family: 'Bookmania Bold';
+  font-size: 1em;
+  text-align: left;    
 }
