@@ -7,8 +7,11 @@ Add to the beginning of the Brew (before the <style> path):
 ``` css
 <link rel = "stylesheet" type = "text/css" href = "https://dracoexe.github.io/GMBinder-Fonts/Fonts_v1.css"/>
 
-  Then, you can add this code to the Style part for configuring the fonts automatically:
+ ```
+ 
+ Then, you can add this code to the Style part for configuring the fonts automatically:
   
+ ``` css
  /* Configure Fonts */
 .phb { font-family: 'BookinsanityRemakeRegular'; }
 .phb p { font-family: 'BookinsanityRemakeRegular'; }
