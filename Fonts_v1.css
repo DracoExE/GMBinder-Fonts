@@ -133,3 +133,5 @@
 .phb h1, .phb h2, .phb h3, .phb h4, .phb h6 { font-family: 'Mr Eaves Small Caps'}
 .phb h5 { font-family: 'Scaly Sans Caps Bold'; color: #000 }
 .phb a { color: #003d66; }
+
+.phb h6 { font-weight: bold; margin-bottom: 0.3em; }
