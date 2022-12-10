@@ -1,5 +1,5 @@
-# GMBinder-ESPFonts
-Spanish fonts for the GMBinder
+# GMBinder-Fonts
+Custom fonts for the GMBinder
 
 
 
