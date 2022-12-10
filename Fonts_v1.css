@@ -110,8 +110,23 @@
 }
 
 /* Configure Fonts */
-.phb p, .phb li, .phb ol{font-family: 'BookinsanityRemakeRegular'; }
-.phb strong em, .phb em strong{font-family: 'BookinsanityRemakeBold'; }
-.phb hr+section blockquote h3 {font-family: 'Scaly Sans Caps'; }
-.phb h1, .phb h2, .phb h3, .phb h4 { font-family: 'Mr Eaves Small Caps'}
-.phb h5 { font-family: 'Scaly Sans Caps Bold'; color: #000 }
+.phb {
+    font-family: 'BookinsanityRemakeRegular';   
+    color: #000;
+}
+
+.phb table { font-family: 'Scaly Sans'; }
+.phb .descriptive { font-family: 'Scaly Sans';}
+.phb .descriptive p { font-family: 'Scaly Sans';}
+.phb .descriptive em { font-family: 'Scaly Sans Italic'; }
+.phb .descriptive strong { font-family: 'Scaly Sans Bold'; }
+.phb blockquote { font-family: 'Scaly Sans';}
+.phb blockquote p { font-family: 'Scaly Sans';}
+.phb blockquote em { font-family: 'Scaly Sans Italic'; }
+.phb blockquote strong { font-family: 'Scaly Sans Bold'; }
+.phb .spellList { font-family: 'Scaly Sans';}
+.phb .spellList ul { font-family: 'Scaly Sans';}
+.phb hr+section blockquote h3 {font-family: 'Scaly Sans'; }
+.phb h1, .phb h2, .phb h3, .phb h4, .phb h6 { font-family: 'Mr Eaves Small Caps'}
+.phb h5 { font-family: 'Scaly Sans Bold'; color: #000 }
+.phb a { color: #003d66; }
