@@ -112,6 +112,6 @@
 /* Configure Fonts */
 .phb p, .phb li, .phb ol{font-family: 'BookinsanityRemakeRegular'; }
 .phb strong em, .phb em strong{font-family: 'BookinsanityRemakeBold'; }
-.phb hr+section blockquote h3 {font-family: 'Mr Eaves Small Caps'; }
-.phb h1, .phb h2, .phb h3, .phb h4, .phb h6 { font-family: 'Mr Eaves Small Caps'; letter-spacing: -1.5px}
-.phb h5 { font-family: 'Mr Eaves Small Caps'; color: #000 }
+.phb hr+section blockquote h3 {font-family: 'Scaly Sans Caps'; }
+.phb h1, .phb h2, .phb h3, .phb h4 { font-family: 'Mr Eaves Small Caps'}
+.phb h5 { font-family: 'Scaly Sans Caps Bold'; color: #000 }
